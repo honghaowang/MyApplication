@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitbitDemo</string>
+    <string name="edit_btn">Edit</string>
+    <string name="fitbit_login">Login Fitbit</string>
+    <string name="moves_login">Login Moves</string>
+    <string name="check_data">Check Data Base</string>
+</resources>
